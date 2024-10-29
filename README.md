@@ -32,7 +32,7 @@
 
 - Максимальный размер ипотеки обычно определяется по формуле 4.5 **x** gross annual income (для high-earner'ов иногда 5**x**).
 - Первый взнос (или депозит) - 5-15% от стоимости жилья
-- First time buyers освобождены от уплаты Stamp Duty Tax
+- First time buyers освобождены от уплаты Stamp Duty Tax (если стоимость жилья не превышает установленный [лимит](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates))
 - услуги юристов (solicitors' fees) ~ £3.000
 
 То есть,
