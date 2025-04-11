@@ -6,9 +6,10 @@
 
 ## Краткий список шагов, необходимый для покупки дома
 
+* выбираем [районы](wiki?tab=Location), в которых хотим приобрести жильё, понимаем цены
 * определяемся с бюджетом
-* копим на депозит
-* выбираем район(ы), в которых хотим приобрести жильё
+* копим на депозит на [LISA](wiki#LISA) счете
+* выбираем [ипотечного брокера](wiki#morgtage-brokers)
 * получаем Agreement in Principle
 * подписываемся на рассылки rightmove по выбранным районам
 * ходим на просмотры всех интересных вариантов
@@ -33,7 +34,7 @@
 - Максимальный размер ипотеки обычно определяется по формуле 4.5 **x** gross annual income (для high-earner'ов иногда 5**x**).
 - Первый взнос (или депозит) - 5-15% от стоимости жилья
 - First time buyers освобождены от уплаты Stamp Duty Tax (если стоимость жилья не превышает установленный [лимит](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates))
-- услуги юристов (solicitors' fees) ~ £3.000
+- услуги юристов (solicitors' fees) ~ £1.500 - 3.000
 
 То есть,
 зарабатывая в год £100.000, и скопив на депозит £50.000,
@@ -42,12 +43,29 @@
 
 Текущие предложения ипотек можно прикинуть на [moneysavingexpert.com](https://www.moneysavingexpert.com/mortgages/best-buys/)
 
-### Выбор района
+
+#### LISA
+Для покупки первого жилья рекомендуется испольвать [LISA](https://www.gov.uk/lifetime-isa) накопительный счет который позволяет получать 25% от государства (муж и жена могут октрыть счет с макс пополненем 4000 + 4000 в год и получить 1000 + 1000 от государства, не является public funds)
+
+Брокеры
+- [Moneybox](https://go.onelink.me/5M0L?pid=share&c=YCCZ84)
+
+### Location
 
 выбор места жительства вещь сильно субъективная, но на что можно обратить внимание:
 - наличие waitrose в районе
 - кол-во council жилья (смотрим на бельё развешанное на верёвках)
 - кофейни vs кебабные
+
+#### Census maps
+
+Куча статистики для выбора района доступна на [ons.gov.uk](https://www.ons.gov.uk/census/maps/)
+- [Ethnic group: White](https://www.ons.gov.uk/census/maps/choropleth/identity/ethnic-group/ethnic-group-tb-6a/white?oa=E00003050)
+- [Religion: Muslim](https://www.ons.gov.uk/census/maps/choropleth/identity/religion/religion-tb/muslim?oa=E00003050)
+- [Household deprivation: None](https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-not-deprived-in-any-dimension?oa=E00003050)
+- [National identity (detailed)](https://www.ons.gov.uk/census/maps/choropleth/identity/national-identity-detailed/national-identity-detailed/other-identity-only-middle-eastern-and-asian-southern-asian-pakistani?msoa=E00003050)
+- [Economically inactive: Looking after home or family](https://www.ons.gov.uk/census/maps/choropleth/work/economic-activity-status/economic-activity-status-10a/economically-inactive-looking-after-home-or-family?lad=E00003050)
+- [Rented: Social rented](https://www.ons.gov.uk/census/maps/choropleth/housing/tenure-of-household/hh-tenure-5a/rented-social-rented?oa=E00003050)
 
 #### Коммьютер тауны Лондона и города UK
 
@@ -58,6 +76,15 @@
 Получить Agreement in Principle можно за 5 минут, например, на [habito](https://www.habito.com/mortgage-in-principle).
 
 Он не влияет на credit score и не должен быть от того же лендера, у кого собираемся брать ипотеку.
+
+#### Morgtage Brokers
+
+Есть платные, которые берут около £500 за подачу заявки на ипотеку и бесплатные которые получают комиссию от лендера. 
+
+Есть негативный опыт с брокерами сети Mortgage Advice Bureau (например Strike) которая спрашивала о происхождении средств у владельцев красных паспортов.
+
+Рекомендации бесплатных брокеров без до проверки средств:
+- [Better.co.uk](http://ssqt.co/mz7CYyO)
 
 ### Поиск подходящего варианта
 
@@ -118,6 +145,8 @@
 - высокий service charge: в некоторых пропертях он может быть заоблачный
 - short lease: лендеры редко дают ипотеку на лиз меньше 80 лет, продлить такой лиз стоит больших денег 
 - cladding issues: на такую квартиру тяжело взять ипотеку и будет тяжело продать, высокий service charge
+- freehold flat (невозможность взять ипотеку). Можно купить за наличку но ликвидность и подобных объектов хуже, потому что за наличку продавать придется
+- у leasehold квартир удвоение ground rent каждые N лет (проблемы с ипотекой)
 
 #### Чек-лист просмотра жилья
 
@@ -201,6 +230,10 @@
 Обязательно нужно посмотреть отзывы, тк солиситор играет важную роль в сделке.
 
 Самый простой способ найти солиситора - спросить в tg группе uk_domik . 
+
+### Рекомендации
+
+- [ONP Solicitors](https://onpsolicitors.co.uk/)
 
 ### Проблемы красного паспорта
 
