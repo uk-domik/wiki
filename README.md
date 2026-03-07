@@ -18,10 +18,10 @@
 * делаем оффер через агентство
 * подаём заявку на ипотеку лендеру под это жильё
 * получаем mortgage offer под жильё
-* заказвыаем survey
+* заказываем survey
 * если всё устраивает, договариваемся через солиситора об exchange (обмен контрактами, после которого продавец обязан продать, а покупатель обязан купить жильё)
 * после exchange определяемся с completion date - день когда нам дадут ключи от дома
-* заказвыаем removal service для перевозки вещей
+* заказываем removal service для перевозки вещей
 * до дня completion перевести депозит, solicitor’s fee и Stamp Duty солиситору
 * после completion забрать в агентстве ключи и въехать в жильё
 
@@ -45,15 +45,15 @@
 
 
 #### LISA
-Для покупки первого жилья рекомендуется испольвать [LISA](https://www.gov.uk/lifetime-isa) накопительный счет который позволяет получать 25% от государства (муж и жена могут октрыть счет с макс пополненем 4000 + 4000 в год и получить 1000 + 1000 от государства, не является public funds)
+Для покупки первого жилья рекомендуется использовать [LISA](https://www.gov.uk/lifetime-isa) накопительный счет, который позволяет получать 25% от государства (муж и жена могут открыть счет с максимальным пополнением 4000 + 4000 в год и получить 1000 + 1000 от государства, не является public funds)
 
 Брокеры
 - [Moneybox](https://go.onelink.me/5M0L?pid=share&c=YCCZ84)
 
 ### Location
 
-выбор места жительства вещь сильно субъективная, но на что можно обратить внимание:
-- наличие waitrose в районе
+Выбор места жительства — вещь сильно субъективная, но на что можно обратить внимание:
+- наличие Waitrose в районе
 - кол-во council жилья (смотрим на бельё развешанное на верёвках)
 - кофейни vs кебабные
 
@@ -67,7 +67,7 @@
 - [Economically inactive: Looking after home or family](https://www.ons.gov.uk/census/maps/choropleth/work/economic-activity-status/economic-activity-status-10a/economically-inactive-looking-after-home-or-family?lad=E00003050)
 - [Rented: Social rented](https://www.ons.gov.uk/census/maps/choropleth/housing/tenure-of-household/hh-tenure-5a/rented-social-rented?oa=E00003050)
 
-#### Коммьютер тауны Лондона и города UK
+#### Коммьютер-тауны Лондона и города UK
 
 [обзор коммьютер-таунов Лондона и городов UK](areas.md)
 
@@ -77,18 +77,18 @@
 
 Он не влияет на credit score и не должен быть от того же лендера, у кого собираемся брать ипотеку.
 
-#### Morgtage Brokers
+#### Mortgage Brokers
 
 Есть платные, которые берут около £500 за подачу заявки на ипотеку и бесплатные которые получают комиссию от лендера. 
 
 Есть негативный опыт с брокерами сети Mortgage Advice Bureau (например Strike) которая спрашивала о происхождении средств у владельцев красных паспортов.
 
-Рекомендации бесплатных брокеров без до проверки средств:
+Рекомендации бесплатных брокеров без доп. проверки средств:
 - [Better.co.uk](http://ssqt.co/mz7CYyO)
 
 ### Поиск подходящего варианта
 
-Для поиска пользуемся [rightmove](www.rightmove.co.uk) или [zoopla](https://www.zoopla.co.uk),
+Для поиска пользуемся [rightmove](https://www.rightmove.co.uk) или [zoopla](https://www.zoopla.co.uk),
 кому что удобнее, агенты выкладывают и туда и туда.
 
 Обязательно ставим alert'ы на выбранные районы, это помогает лучше понять локальный рынок, ориентироваться в ценах в этом месте и пр.
@@ -96,7 +96,7 @@
 Найдя понравившийся вариант - сразу букаем просмотр звонком агенту на телефон,
 письма не пишем - годные варианты уйдут раньше, чем агенты прочитают письмо.
 
-Даже если на понравившийся вариант денег ещё не достаточно, лучше сразу начинать ходить на просмотры интересных вариантов, чтобы лучще понимать рынок.
+Даже если на понравившийся вариант денег ещё не достаточно, лучше сразу начинать ходить на просмотры интересных вариантов, чтобы лучше понимать рынок.
 
 Многие агенты для просмотра требуют иметь AiP на руках, так что лучше иметь его на готове.
 
@@ -108,18 +108,18 @@
 
 #### Инструменты для исследования
 
-Ставим плагин [propertylog](https://www.propertylog.net) или аналогичный, чтобы видеть изменения цены на любую пропертю прямо на rightmove.
+Ставим плагин [propertylog](https://www.propertylog.net) или аналогичный, чтобы видеть изменения цены на любую проперти прямо на rightmove.
 
 Историю покупок любой проперти (или нескольких по посткоду) удобно смотреть на [houseprices.io](https://houseprices.io/)
 
 Проверить энерго-сертификат жилья можно на [gov.uk](https://www.gov.uk/find-energy-certificate),
 по нему, например, можно прикинуть тип стен проперти (solid wall vs. cavity walls)
 
-Заказать выписку из регистра online по любой проперти можно за 3gbp на [gov.uk](https://www.gov.uk/get-information-about-property-and-land/copies-of-deeds), в ней можно проверить не была ли пропертя ex-council
+Заказать выписку из регистра online по любой проперти можно за £3 на [gov.uk](https://www.gov.uk/get-information-about-property-and-land/copies-of-deeds), в ней можно проверить не была ли проперти ex-council
 
 Историю объявлений по проперти можно посмотреть [zoopla sold house prices](https://www.zoopla.co.uk/house-prices/)
 
-То как район выглядел раньше и как он меняется со временем удобно смотреть на [google maps](https://maps.google.com/) streetview - кликнув на "See more dates" можно выбрать время съёмки, очень удобно погулять по району в прошлом
+То, как район выглядел раньше и как он меняется со временем, удобно смотреть на [Google Maps](https://maps.google.com/) Street View - кликнув на "See more dates" можно выбрать время съёмки, очень удобно погулять по району в прошлом
 
 Различная [статистика](https://datashine.org.uk) по районам
 
@@ -127,7 +127,7 @@
 
 Много информации по районам есть, если поискать по HousingUK [реддиту](https://www.reddit.com/r/HousingUK/)
 
-На сайте кансила, к которому относится пропертя должен быть раздел planning permissions, поиск по нему может дать информацию по тому, что происходио и будет происходить в районе/вокруг проперти. Мы же не хотим купить дом, рядом с которым завтра начнут строить автостраду?
+На сайте каунсила, к которому относится проперти, должен быть раздел planning permissions; поиск по нему может дать информацию о том, что происходило и будет происходить в районе/вокруг проперти. Мы же не хотим купить дом, рядом с которым завтра начнут строить автостраду?
 
 Проверить доступный интернет по адресу можно на нескольких сайтах: [ofcom](https://checker.ofcom.org.uk/en-gb/broadband-coverage), [uswitch](https://www.uswitch.com/broadband/results/)
 
@@ -145,7 +145,7 @@
 - высокий service charge: в некоторых пропертях он может быть заоблачный
 - short lease: лендеры редко дают ипотеку на лиз меньше 80 лет, продлить такой лиз стоит больших денег 
 - cladding issues: на такую квартиру тяжело взять ипотеку и будет тяжело продать, высокий service charge
-- freehold flat (невозможность взять ипотеку). Можно купить за наличку но ликвидность и подобных объектов хуже, потому что за наличку продавать придется
+- freehold flat (невозможность взять ипотеку). Можно купить за наличку, но ликвидность подобных объектов хуже, потому что за наличку продавать придётся
 - у leasehold квартир удвоение ground rent каждые N лет (проблемы с ипотекой)
 
 #### Чек-лист просмотра жилья
@@ -183,7 +183,7 @@
 
 | Inside | .......... .......... .......... .......... |
 | :- |-|
-| area (sqm2?) | |
+| area (m2?) | |
 | bedrooms (#?) | |
 | heating (gas/electro?) | |
 | ceiling height | |
@@ -193,7 +193,7 @@
 | balcony (juliet?) | |
 | cracks (walls/ceiling?) | |
 | cupboard (size?) | |
-| attic (spacios/insulated?) | |
+| attic (spacious/insulated?) | |
 
 
 | Kitchen | .......... .......... .......... .......... |
@@ -229,7 +229,7 @@
 
 Обязательно нужно посмотреть отзывы, тк солиситор играет важную роль в сделке.
 
-Самый простой способ найти солиситора - спросить в tg группе uk_domik . 
+Самый простой способ найти солиситора - спросить в tg-группе uk_domik.
 
 ### Рекомендации
 
@@ -237,7 +237,7 @@
 
 ### Проблемы красного паспорта
 
-Для большинства солиситоров российский паспорт клиента или деньги, переведённые из РФ это red-flag.
+Для большинства солиситоров российский паспорт клиента или деньги, переведённые из РФ — это red-flag.
 
 Чтобы найти солиситоров, которые готовы работать с таким кейсом можно попробовать спросить в tg группе uk_domik
 
@@ -274,13 +274,13 @@ Numbers to Words [Converter для перевода чисел в слова](ht
 
 Dear,
 
-Further to my viewing on 01.02.2023, I am pleased to be in a position to offer to purchase the above property for £460,000 (four hundred sixty thousand pounds).
+Further to my viewing on 01.02.2023, I am pleased to be in a position to offer to purchase the above property for £460,000 (four hundred and sixty thousand pounds).
 This offer is on the basis that the property is taken off the market immediately and is subject to survey and valuation.
 
 I feel this offer reflects the value of the property in its current condition. 
 In arriving at this offer I have taken into account the updating work that is needed.
 
-I can confirm that I am a first-time buyer and thus in a chain-free position with my finances in place, which can be confirmed by my broker. I also possess finances enough to apply for a mortgage with good deposit.
+I can confirm that I am a first-time buyer and thus in a chain-free position with my finances in place, which can be confirmed by my broker. I also possess finances enough to apply for a mortgage with a good deposit.
 I’d be happy to work with the current home owner on a suitable completion date.
 
 I look forward to hearing from you.
@@ -292,13 +292,13 @@ Vasya Pupkin
 ### Low ball offers & negotiations
 
 Рабочей стратегией является сделать оффер с ценой (5%-10%) ниже запрашиваемой.
-Скоре всего, после этого агент перезвонит голосом чтобы отказать.
+Скорее всего, после этого агент перезвонит голосом чтобы отказать.
 В процессе общения можно выяснить примерную цену, которую агент с продавцом согласны принять,
 от неё и можно отталкиваться, делая новый формальный письменный оффер.
 
 Тут будет полезным предыдущий опыт просмотра объектов в этом месте, это поможет примерно сориентироваться в "справедливой" цифре оффера.
 
-Надо иметь ввиду, что в районе повышенного спроса эти правила могут не сработать,
+Надо иметь в виду, что в районе повышенного спроса эти правила могут не сработать,
 оффер надо будет делать быстро и с asking price (или даже выше asking price), иначе объект быстро уйдёт.
 
 Это правило может работать и в обратную сторону, в районе низкого спроса можно лоу-болить.
